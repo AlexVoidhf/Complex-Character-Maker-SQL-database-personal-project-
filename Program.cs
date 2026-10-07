@@ -24,7 +24,7 @@ createTableCmd.ExecuteNonQuery();
 
 Console.WriteLine("=======================================");
 Console.WriteLine("Hello welcome to complex character creation!");
-Console.WriteLine("(made by AlexVoidhf v0.0)");
+Console.WriteLine("(made by AlexVoidhf v0.1)");
 Console.WriteLine("=======================================");
 Console.WriteLine("                     ");
 
